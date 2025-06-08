@@ -1,2 +1,2 @@
-print ("Hello Wordl")
+print ("Hello World")
 print ("hello Git")
